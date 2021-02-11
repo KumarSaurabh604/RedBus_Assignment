@@ -1,0 +1,12 @@
+2021-02-10 17:04:44,549??  INFO [main] TestFile.cancelTicketTest??:20 - --------------------------Cancel Ticket Test Starts Here---------------------------
+2021-02-10 17:05:04,623??  INFO [main] TestFile.cancelTicketTest??:43 - --------------------------Cancel Ticket Test Ends Here---------------------------
+2021-02-10 17:05:05,323?? DEBUG [main] freemarker.cache??:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-02-10 17:05:05,324?? DEBUG [main] freemarker.cache??:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-02-10 17:05:05,333?? DEBUG [main] freemarker.cache??:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-02-10 17:05:05,334?? DEBUG [main] freemarker.cache??:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-02-10 17:05:05,334?? DEBUG [main] freemarker.cache??:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/saurabhkumar04/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-02-10 17:05:05,471?? DEBUG [main] freemarker.cache??:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-02-10 17:05:05,471?? DEBUG [main] freemarker.cache??:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-02-10 17:05:05,471?? DEBUG [main] freemarker.cache??:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-02-10 17:05:05,472?? DEBUG [main] freemarker.cache??:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-02-10 17:05:05,472?? DEBUG [main] freemarker.cache??:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/saurabhkumar04/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

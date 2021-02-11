@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestFile.MyProfileTest"/>
+      <class name="TestFile.ModifyDateTest"/>
+      <class name="TestFile.showMyTicketTest"/>
+      <class name="TestFile.MyTripTest"/>
+      <class name="TestFile.walletCardInfoTest"/>
+      <class name="TestFile.busOperatorTest"/>
+      <class name="TestFile.SignIn_Test"/>
+      <class name="TestFile.signOutTest"/>
+      <class name="TestFile.rPoolTest"/>
+      <class name="TestFile.KnowMoreTest"/>
+      <class name="TestFile.WalletTest"/>
+      <class name="TestFile.SearchBus_Test"/>
+      <class name="TestFile.cancelTicketTest"/>
+      <class name="TestFile.SafetyProgramTest"/>
+      <class name="TestFile.UpdateProfileTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
